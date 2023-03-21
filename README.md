@@ -20,3 +20,8 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 
+# Mock up
+
+* The following image demonstrates the application's functionality
+
+![the webpage layout features multiple questions on Javascript](application-mock-up.png)
